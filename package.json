@@ -4,7 +4,8 @@
   "description": "This is a repository to solve Javascript problems from https://www.kodekarma.dev/",
   "main": "index.js",
   "scripts": {
-    "kodekarma-p1": "nodemon ./Coding_Problems/P1_Splitting_Objects_Inside_An_Array/Splitting_Objects_Inside_An_Array.js"
+    "coding-kodekarma-p1": "nodemon ./Coding_Problems/P1_Splitting_Objects_Inside_An_Array/Splitting_Objects_Inside_An_Array.js",
+    "coding-kodekarma-p2": "nodemon ./Coding_Problems/P2_Caesars_Cipher/Caesars_Cipher.js"
   },
   "repository": {
     "type": "git",
